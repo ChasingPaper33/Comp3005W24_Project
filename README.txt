@@ -18,7 +18,7 @@ Prior to running the application, make sure that:
     1. psycopg2 was pip installed
     2. python version is no older than python 3.7
     3. launch and log into pgAdmin4
-    4. Create an empty database "Fitness Club"
+    4. Create an empty database "FitnessClub"
     5. in project.py and replace arguments (if necessary);
             1)user with the username that owns the database, most likely postgres
             2)password with the password of that user [ NECESSARY]
