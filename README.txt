@@ -2,6 +2,7 @@ Name: Shawnia Noel
 ID: 101207361
 Group 164 - 1 Member
 
+Note: The app/script assumes valid user input mostly everywhere (especially if a format is specified)
 Application app script is: project.py
 The ddl statements used are in the folder SQL
 The first batch of dml statements used are the dml.sql file in sql folder
