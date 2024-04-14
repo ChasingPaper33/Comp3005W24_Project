@@ -6,10 +6,10 @@ Note: The app/script assumes valid user input mostly everywhere (especially if a
 Application app script is: project.py
 The ddl statements used are in the folder SQL
 The first batch of dml statements used are the dml.sql file in sql folder
-The second batch of ddl statements used are the dml2.swl file in the sql folder
+The second batch of ddl statements used are the dml2.sql file in the sql folder
 
 This application is written in python,
-It makes use of library psycopg2 which is a python wrapper for libpq, the official library in C to connect to postgresql server.
+It makes use of library psycopg2 to connect to postgresql server.
 library psycopg2 has to pip installed prior to runnning the application.
 python version newer than 3.6 is required
 More details can be found here: https://www.psycopg.org/docs/news.html#news
